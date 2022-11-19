@@ -1,1 +1,1 @@
-# giulianoformisano.github.io
+# Academic Template for [Hugo](https://github.com/gohugoio/hugo)

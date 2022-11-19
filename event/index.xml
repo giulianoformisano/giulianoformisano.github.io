@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Carlo Alfano</title>
+    <link>https://c-alfano.github.io/event/</link>
+      <atom:link href="https://c-alfano.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://c-alfano.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://c-alfano.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Linear Convergence for Natural Policy Gradient with Log-linear Policy Parametrization</title>
+      <link>https://c-alfano.github.io/talk/linear-convergence-for-natural-policy-gradient-with-log-linear-policy-parametrization/</link>
+      <pubDate>Wed, 21 Sep 2022 14:00:00 +0000</pubDate>
+      <guid>https://c-alfano.github.io/talk/linear-convergence-for-natural-policy-gradient-with-log-linear-policy-parametrization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

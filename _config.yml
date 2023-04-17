@@ -18,12 +18,12 @@ avatar: https://pbs.twimg.com/profile_images/1595061679611682817/i08EjYQE_400x40
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: giuliano.formisano@nuffield.ox.ac.uk
   facebook:
   flickr:
-  github: 
+  github: giulianoformisano
   instagram:
-  linkedin:
+  linkedin: giuliano-formisano-78764a138
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: giuformisano
@@ -70,7 +70,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # You might prefer to minify using :compressed
+  style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:

@@ -1,18 +1,48 @@
 ---
-layout: default
+layout: page
+title:
+permalink: /
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="row">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="row">
+
+    <div class="col-md-6">
+<span class="frame">
+    <span class="site-avatar">
+      <img src="{{ site.avatar }}" style="border-radius: 20px; margin-top: 0px; margin-left: 25px; margin-right: 25px"/>
+    </span>
+</span>
+  <footer class="footer">
+      {% include svg-icons.html %}
+  </footer>
+        <br/>
+
+</div>
+
+<div class="col-md-6"; style="text-align: center">
+    <h2 style="margin: 0px 0px -5px 0px;">about me</h2>
+
+    <div style="border-radius: 10px; border: #eeeeee 1px solid; margin-left: 25px; margin-right: 25px; display: inline-block">
+        <!--    <hr/>-->
+    <p style="text-align: left">
+    Welcome and thank you for visiting!
+    <br>
+    I am a PhD Candidate in Social Data Science at the <a href="https://www.ox.ac.uk/">University of Oxford</a>, as an ESRC and Nuffield College Scholar.
+    <br>
+    My research focuses on computational text analysis and political polarisation, using machine learning, natural language processing, network analysis, and time-series.
+    <br>
+    Alongside my PhD, I collaborate with Oxford’s Development Institute and Department of Politics, and Science Po’s Centre for European Studies and Comparative Politics.
+    <br>
+    Previously, I completed an MPhil in Politics (Oxford, 2021) and a BA in Politics and International Relations (Exeter, 2019).
+    <br>  
+      
+    </div>
+
+</div>
+</div>
+</div>
 </div>

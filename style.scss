@@ -194,8 +194,8 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: $Roboto;
+  font-weight: bold;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -213,14 +213,16 @@ img {
 nav {
   float: center; // original: right
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $Roboto;
   font-size: 18px;
+  font-weight: bold;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
     font-size: 14px;
+    font-weight: bold;
   }
 
   a {

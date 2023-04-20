@@ -6,7 +6,7 @@ permalink: /research/
 
 <center> <b> Publications </b> </center> 
 <br>
-Joerg Friedrichs, Niklas Stoehr, <b> Giuliano Formisano </b> (2022). <a href="https://www.sciencedirect.com/science/article/pii/S2468696422000428" target="_blank" rel="noopener noreferrer"> Fear-anger cycles: Governmental and populist politics of emotion</a>. <i>Online Social Networks and Media</i>. <a href="https://dataverse.harvard.edu/dataverse/fear-anger-contests" target="_blank" rel="noopener noreferrer">[Data]</a>
+Joerg Friedrichs, Niklas Stoehr, <b> Giuliano Formisano </b> (2022). <a href="https://www.sciencedirect.com/science/article/pii/S2468696422000428" target="_blank" rel="noopener noreferrer"> Fear-anger cycles: Governmental and populist politics of emotion</a>. <i>Online Social Networks and Media</i>. <br> <a href="https://dataverse.harvard.edu/dataverse/fear-anger-contests" target="_blank" rel="noopener noreferrer">[Data]</a>
 <br>
 <br>
 

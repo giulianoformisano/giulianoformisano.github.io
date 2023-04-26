@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<b> University of Oxford </b>
+<center> <b> University of Oxford </b> </center> 
 
 <b> Statistics Core (Postgraduate) </b> <br>
 - Oxford Internet Institute; Oct-Dec 2022<br>

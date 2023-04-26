@@ -4,12 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## University of Oxford
+<b> University of Oxford </b>
 
-### Statistics Core (Postgraduate) <br>
-- Oxford Internet Institute Oct 2022 – Dec 2022<br>
-- Teaching assistant to Dr Grant Blank. Taught laboratory and seminar sessions, as well as marking weekly assignments.<br>
+<b> Statistics Core (Postgraduate) </b> <br>
+- Oxford Internet Institute; Oct-Dec 2022<br>
+- Teaching assistant to Dr Grant Blank. Taught laboratory and seminar sessions, as well as marked weekly assignments.<br>
 
-### Digital Politics (Postgraduate)<br>
-- Oxford Internet Institute Jan 2022 – Mar 2022<br>
-- Teaching assistant to Professor Victoria Nash. The course taught students both classic theories and also the latest applications of data science techniques to testing these theories.
+<b> Digital Politics (Postgraduate)</b><br>
+- Oxford Internet Institute; Jan-Mar 2022 <br>
+- Teaching assistant to Professor Victoria Nash. Taught the latest applications of data science techniques to study political science theories.

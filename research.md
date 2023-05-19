@@ -56,6 +56,7 @@ Giorgia Ramazzotti,<b> Giuliano Formisano </b> (2020). <a href="https://idrn.eu/
 <br>
 <br>
 
+<hr>
 <center> <b> Interviews: </b> </center> 
 <br>
 In 2020-21, during the Covid pandemic, I was president of the Oxford University Italian Society and I interviewed prominent people in Italian politics, economics, and society. These included former Prime Minister of Italy, Prof Enrico Letta, former MEP, Marco Cappato, Paralympic Champion, Bebe Vio, and head of Emergency NGO, Rossella Miccio.

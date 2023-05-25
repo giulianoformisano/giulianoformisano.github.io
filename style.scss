@@ -229,13 +229,13 @@ nav {
     margin-left: 10px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 1px;
     font-size:16.5px;
 
     @include mobile {
       margin: 0 5px;
-      color: $darkGray;
+      color: $lightBlue;
     }
   }
 }

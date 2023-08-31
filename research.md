@@ -19,7 +19,6 @@ Clemente, A., <b>Formisano, G.</b> (Working Paper) Mind the Bricks: Fairness Bel
 Errichiello, E., <b>Formisano, G.</b>, Downing, J. (Work in Progress) Securitizing Muslim migrants in Western Europe: A computational analysis of elite and non-elite actors’ communication on Twitter in European terror attacks. <i>Presented at APSA Conference 2023</i>.<br>
 Saunders, C., <b>Formisano, G.</b>, Lavender, L., Palmer, A. (Working Paper) Affective Polarisation: Imagined or Real? A Discourse Analysis of the Debate About Bovine TB and Badger Culling. <br>
 <br>
-
 <br>
 
 <center> <b> Work in Progress </b> </center> 

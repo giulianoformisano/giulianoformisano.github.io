@@ -14,10 +14,12 @@ Joerg Friedrichs, Niklas Stoehr, <b> Giuliano Formisano </b> (2022). <a href="ht
 <br>
 <b>Giuliano, F.</b>, Friedrichs, F., Schaffner, F., Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 <br>
-Clemente, A., <b>Formisano, G.</b> (Working Paper) Are we all in this together? Using transfer learning to study changes in redistribution attitudes during COVID-19. <i>Presented at EPSA 2022</i>. <br>
+Clemente, A., <b>Formisano, G.</b> (Working Paper) Mind the Bricks: Fairness Beliefs and local housing inequality in the UK. <i>Presented at EPSA Conference 2023 and APSA Pre-/Conference2023</i>. <br>
 <br>
+Errichiello, E., <b>Formisano, G.</b>, Downing, J. (Work in Progress) Securitizing Muslim migrants in Western Europe: A computational analysis of elite and non-elite actors’ communication on Twitter in European terror attacks. <i>Presented at APSA Conference 2023</i>.<br>
 Saunders, C., <b>Formisano, G.</b>, Lavender, L., Palmer, A. (Working Paper) Affective Polarisation: Imagined or Real? A Discourse Analysis of the Debate About Bovine TB and Badger Culling. <br>
 <br>
+
 <br>
 
 <center> <b> Work in Progress </b> </center> 
@@ -26,9 +28,10 @@ Theocharis, Y., Kosmidis, S., <b>Formisano, G.</b> (Work in Progress) Wisdom of 
 <br>
 Valentim, V., <b>Formisano, G.</b> (Work in Progress) Calling out unacceptable rhetoric on social media. <br>
 <br>
-Downing, J., Errichiello, E., <b>Formisano, G.</b> (Work in Progress) Securitizing Muslim migrants in Western Europe: A computational analysis of elite and non-elite actors’ communication on Twitter in European terror attacks. <br>
+<b> </b>Formisano, G.</b>, Froio, C., Castelli-Gattinara, P. (Work in Progress) Protest Event Analysis: A Supervised NLP Approach.  <br>
 <br>
-Froio, C., Castelli-Gattinara, P., <b>Formisano, G.</b>, et al. (Work in Progress) Protest Event Analysis: A Supervised NLP Approach.  <br>
+Clemente, A., <b>Formisano, G.</b> (Working Paper) Are we all in this together? Using transfer learning to study changes in redistribution attitudes during COVID-19. <i>Presented at EPSA 2022</i>. <br>
+<br>
 <br>
 <br>
 

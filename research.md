@@ -28,7 +28,7 @@ Theocharis, Y., Kosmidis, S., <b>Formisano, G.</b> (Work in Progress) Wisdom of 
 <br>
 Valentim, V., <b>Formisano, G.</b> (Work in Progress) Calling out unacceptable rhetoric on social media. <br>
 <br>
-<b> </b>Formisano, G.</b>, Froio, C., Castelli-Gattinara, P. (Work in Progress) Protest Event Analysis: A Supervised NLP Approach.  <br>
+<b>Formisano, G.</b>, Froio, C., Castelli-Gattinara, P. (Work in Progress) Protest Event Analysis: A Supervised NLP Approach.  <br>
 <br>
 Clemente, A., <b>Formisano, G.</b> (Working Paper) Are we all in this together? Using transfer learning to study changes in redistribution attitudes during COVID-19. <i>Presented at EPSA 2022</i>. <br>
 <br>

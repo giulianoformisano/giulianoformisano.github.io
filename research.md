@@ -18,11 +18,11 @@ Clemente, A. & <b>Formisano, G.</b> (Working Paper) Mind the Bricks: Fairness Be
 <br>
 Theocharis, Y., Kosmidis, S., <b>Formisano, G.</b> (Work in Progress) Wisdom of the Sub-Crowds: Partisan-Based Measurement of Online Polarization. <br>
 <br>
-Whitefield, S., Kosmidis, S., <b>Formisano, G.</b> (Work in Progress) Programmatic and Emotional Appeals of Illiberal Parties.
+Whitefield, S., Kosmidis, S., <b>Formisano, G.</b> (Work in Progress) Programmatic and Emotional Appeals of Illiberal Parties. <br>
 <br>
 Valentim, V., <b>Formisano, G.</b> (Work in Progress) Calling out unacceptable rhetoric on social media. <br>
 <br>
-<b>Formisano, G.</b>, Froio, C., Castelli-Gattinara, P. (Work in Progress) Protest Event Analysis: A Supervised NLP Approach.  <br>
+<b>Formisano, G.</b>, Froio, C., Castelli-Gattinara, P. (Work in Progress) Protest Event Analysis: A Supervised NLP Approach. <br>
 <br>
 Errichiello, E. & <b>Formisano, G.</b> (Work in Progress) Securitizing Muslim migrants in Western Europe: A computational analysis of elite and non-elite actors’ communication on Twitter in European terror attacks. <i>Presented at APSA Conference 2023</i>. <br>
 <br>

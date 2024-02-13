@@ -5,7 +5,6 @@ permalink: /research/
 ---
 
 <center> <b> Publications </b> </center> 
-<br>
 Joerg Friedrichs, Niklas Stoehr, & <b> Giuliano Formisano </b> (2022). <a href="https://www.sciencedirect.com/science/article/pii/S2468696422000428" target="_blank" rel="noopener noreferrer"> Fear-anger cycles: Governmental and populist politics of emotion</a>. <i>Online Social Networks and Media</i>. <a href="https://dataverse.harvard.edu/dataverse/fear-anger-contests" target="_blank" rel="noopener noreferrer">[Data]</a>
 <br>
 <br>
@@ -15,7 +14,6 @@ Joerg Friedrichs, Niklas Stoehr, & <b> Giuliano Formisano </b> (2022). <a href="
 <br>
 
 <center> <b> In Progress </b> </center> 
-<br>
 Clemente, A. & <b>Formisano, G.</b> (Working Paper) Mind the Bricks: Fairness Beliefs and local housing inequality in the UK. <i>Presented at EPSA Conference 2023 and APSA Pre-/Conference 2023</i>. <br>
 <br>
 Saunders, C., <b>Formisano, G.</b>, Lavender, L., Palmer, A. (Working Paper) Affective Polarisation: Imagined or Real? A Discourse Analysis of the Debate About Bovine TB and Badger Culling. <br>

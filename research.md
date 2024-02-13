@@ -10,9 +10,11 @@ Joerg Friedrichs, Niklas Stoehr, & <b> Giuliano Formisano </b> (2022). <a href="
 <br>
 <br>
 
-<center> <b> Ongoing projects </b> </center> 
-<br>
+<center> <b> Under Review </b> </center> 
 <b>Giuliano, F.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Under Review) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
+<br>
+
+<center> <b> In Progress </b> </center> 
 <br>
 Clemente, A. & <b>Formisano, G.</b> (Working Paper) Mind the Bricks: Fairness Beliefs and local housing inequality in the UK. <i>Presented at EPSA Conference 2023 and APSA Pre-/Conference 2023</i>. <br>
 <br>

@@ -44,7 +44,7 @@ Errichiello, E. & <b>Formisano, G.</b> (Work in Progress) Securitizing Muslim mi
 <br>
 <br>
 
-<b> Giuliano Formisano </b>, Anna Clemente (2020). <a href="https://legrandcontinent.eu/fr/2020/05/27/la-regularisation-des-travailleurs-sans-papiers-divise-litalie/" target="_blank" rel="noopener noreferrer"> La régularisation des travailleurs sans-papiers divise l’Italie</a>. <i>Le Grand Continent</i>.
+<b> Giuliano Formisano</b>, Anna Clemente (2020). <a href="https://legrandcontinent.eu/fr/2020/05/27/la-regularisation-des-travailleurs-sans-papiers-divise-litalie/" target="_blank" rel="noopener noreferrer"> La régularisation des travailleurs sans-papiers divise l’Italie</a>. <i>Le Grand Continent</i>.
 <br>
 <br>
 

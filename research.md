@@ -23,7 +23,7 @@ Valentim, V., <b>Formisano, G.</b> (Work in Progress) Calling out unacceptable r
 <br>
 <b>Formisano, G.</b>, Froio, C., Castelli-Gattinara, P. (Work in Progress) Protest Event Analysis: A Supervised NLP Approach. <br>
 <br>
-Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., Floridi, L. (Work in Progress). Artificial Intelligence for the Internal Democracy of Political Parties. <br>
+Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., Floridi, L. (Work in Progress) Artificial Intelligence for the Internal Democracy of Political Parties. <br>
 <br>
 Errichiello, E. & <b>Formisano, G.</b> (Work in Progress) Securitizing Muslim migrants in Western Europe: A computational analysis of elite and non-elite actors’ communication on Twitter in European terror attacks. <i>Presented at APSA Conference 2023</i>. <br>
 <br>

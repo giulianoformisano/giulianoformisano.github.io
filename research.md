@@ -9,8 +9,8 @@ Joerg Friedrichs, Niklas Stoehr, & <b> Giuliano Formisano </b> (2022). <a href="
 <br>
 <br>
 <center> <b> Under Review </b> </center> 
-<b>Giuliano, F.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Under Review) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. 
-<br>
+<b>Giuliano, F.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Under Review) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
+<br> 
 Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (Under Review) Artificial Intelligence for the Internal Democracy of Political Parties. <br>
 <br>
 

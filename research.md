@@ -3,6 +3,16 @@ layout: page
 title: Research
 permalink: /research/
 ---
+<!-- Button to trigger page reload -->
+<button onclick="refreshPage()">Refresh Page</button>
+
+<script>
+// JavaScript function to refresh the page
+function refreshPage() {
+    // Reloads the current URL
+    location.reload();
+}
+</script>
 
 <center> <b> Publications </b> </center> 
 Joerg Friedrichs, Niklas Stoehr, & <b> Giuliano Formisano </b> (2022). <a href="https://www.sciencedirect.com/science/article/pii/S2468696422000428" target="_blank" rel="noopener noreferrer"> Fear-anger cycles: Governmental and populist politics of emotion</a>. <i>Online Social Networks and Media</i>. <a href="https://dataverse.harvard.edu/dataverse/fear-anger-contests" target="_blank" rel="noopener noreferrer">[Data]</a>

@@ -32,7 +32,6 @@ Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (Under 
 <br>
 <b>Formisano, G.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Under Review) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 <br>
-<br> 
 
 <center> <b> In Progress </b> </center> 
 <br> 

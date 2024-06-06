@@ -30,9 +30,11 @@ Joerg Friedrichs, Niklas Stoehr, & <b> Giuliano Formisano </b> (2022) <a href="h
 <center> <b> Under Review </b> </center> 
 Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (Under Review) Artificial Intelligence for the Internal Democracy of Political Parties. <br>
 <br>
+<b>Formisano, G.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
+<br>
+<br> 
 
 <center> <b> In Progress </b> </center> 
-<b>Formisano, G.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 <br> 
 Clemente, A. & <b>Formisano, G.</b> (Working Paper) Mind the Bricks: Fairness Beliefs and local housing inequality in the UK. <i>Presented at EPSA Conference 2023 and APSA Pre-/Conference 2023</i>. <br>
 <br>

@@ -26,7 +26,7 @@ function refreshPage() {
 <center> <b> Peer-reviewed Publications </b> </center> 
 Friedrichs, J., Stoehr, N., & <b> Formisano, G. </b> (2022) <a href="https://www.sciencedirect.com/science/article/pii/S2468696422000428" target="_blank" rel="noopener noreferrer"> Fear-anger cycles: Governmental and populist politics of emotion</a>. <i>Online Social Networks and Media</i>. <a href="https://dataverse.harvard.edu/dataverse/fear-anger-contests" target="_blank" rel="noopener noreferrer">[Data]</a><br>
 <br>
-Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (Forthcoming) Artificial Intelligence for the Internal Democracy of Political Parties. <br>
+Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (Forthcoming) Artificial Intelligence for the Internal Democracy of Political Parties. <i>Minds and Machines</i>. <br>
 <br>
 <br>
 <center> <b> In Progress </b> </center> 

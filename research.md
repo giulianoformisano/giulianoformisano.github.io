@@ -24,17 +24,15 @@ function refreshPage() {
 </script>
 
 <center> <b> Peer-reviewed Publications </b> </center> 
-Friedrichs, J., Stoehr, N., & <b> Formisano, G. </b> (2022) <a href="https://www.sciencedirect.com/science/article/pii/S2468696422000428" target="_blank" rel="noopener noreferrer"> Fear-anger cycles: Governmental and populist politics of emotion</a>. <i>Online Social Networks and Media</i>. <a href="https://dataverse.harvard.edu/dataverse/fear-anger-contests" target="_blank" rel="noopener noreferrer">[Data]</a>
+Friedrichs, J., Stoehr, N., & <b> Formisano, G. </b> (2022) <a href="https://www.sciencedirect.com/science/article/pii/S2468696422000428" target="_blank" rel="noopener noreferrer"> Fear-anger cycles: Governmental and populist politics of emotion</a>. <i>Online Social Networks and Media</i>. <a href="https://dataverse.harvard.edu/dataverse/fear-anger-contests" target="_blank" rel="noopener noreferrer">[Data]</a><br>
+<br>
+Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (Forthcoming) Artificial Intelligence for the Internal Democracy of Political Parties. <br>
 <br>
 <br>
-<center> <b> Under Review </b> </center> 
-Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (Under Review) Artificial Intelligence for the Internal Democracy of Political Parties. <br>
-<br>
-<b>Formisano, G.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Under Review) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
-<br>
-
 <center> <b> In Progress </b> </center> 
 <br> 
+<b>Formisano, G.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Working paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
+<br>
 Clemente, A. & <b>Formisano, G.</b> (Working Paper) Mind the Bricks: Fairness Beliefs and local housing inequality in the UK. <i>Presented at EPSA Conference 2023 and APSA Pre-/Conference 2023</i>. <br>
 <br>
 <b>Formisano, G.</b>, Froio, C., & Castelli-Gattinara, P. (Working Paper) Protest Event Analysis: A Supervised NLP Approach. <br>

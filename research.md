@@ -41,6 +41,8 @@ Theocharis, Y., Kosmidis, S., & <b>Formisano, G.</b> (Work in Progress) Wisdom o
 <br>
 Whitefield, S., Kosmidis, S., & <b>Formisano, G.</b> (Work in Progress) Programmatic and Emotional Appeals of Illiberal Parties. <i>Forthcoming Presentation at 2024 APSA Conference. </i> <br>
 <br>
+<b>Formisano, G.</b>, ..., Aragon, P., Caniglia, C., Floridi, L., et al. (Work in Progress) Measuring Misinformation on Wikipedia during the 2024 US Presidential Elections.
+<br>
 Valentim, V. & <b>Formisano, G.</b> (Work in Progress) Calling out unacceptable rhetoric on social media. <i>Presented at EPSA Conference 2024</i>. <br>
 <br>
 Errichiello, E.* & <b>Formisano, G.*</b> (Work in Progress) Securitizing Muslim migrants in Western Europe: A computational analysis of elite and non-elite actors’ communication on Twitter in European terror attacks. <br>

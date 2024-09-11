@@ -28,7 +28,6 @@ Friedrichs, J.*, Stoehr, N.*, & <b> Formisano, G.* </b> (2022) <a href="https://
 <br>
 Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (2024) <a href="https://doi.org/10.1007/s11023-024-09693-x" target="_blank" rel="noopener noreferrer"> Artificial Intelligence for the Internal Democracy of Political Parties</a>. <i>Minds and Machines</i>. <br>
 <br>
-<br>
 <center> <b> Ongoing Research </b> </center> 
 <b>Formisano, G.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Working paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 <br>

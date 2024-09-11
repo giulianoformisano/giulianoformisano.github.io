@@ -26,7 +26,7 @@ function refreshPage() {
 <center> <b> Peer-reviewed Research </b> </center> 
 Friedrichs, J.*, Stoehr, N.*, & <b> Formisano, G.* </b> (2022) <a href="https://www.sciencedirect.com/science/article/pii/S2468696422000428" target="_blank" rel="noopener noreferrer"> Fear-anger cycles: Governmental and populist politics of emotion</a>. <i>Online Social Networks and Media</i>. <a href="https://dataverse.harvard.edu/dataverse/fear-anger-contests" target="_blank" rel="noopener noreferrer">[Data]</a><br>
 <br>
-Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (Forthcoming) Artificial Intelligence for the Internal Democracy of Political Parties. <i>Minds and Machines</i>. <br>
+Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (2024) <a href="https://doi.org/10.1007/s11023-024-09693-x" target="_blank" rel="noopener noreferrer"> Artificial Intelligence for the Internal Democracy of Political Parties</a>. <i>Minds and Machines</i>. <br>
 <br>
 <br>
 <center> <b> Ongoing Research </b> </center> 
@@ -39,9 +39,9 @@ Clemente, A.* & <b>Formisano, G.* </b> (Working Paper) Mind the Bricks: Fairness
 <br>
 Theocharis, Y., Kosmidis, S., & <b>Formisano, G.</b> (Work in Progress) Wisdom of the Sub-Crowds: Partisan-Based Measurement of Online Polarization. <br>
 <br>
-Whitefield, S., Kosmidis, S., & <b>Formisano, G.</b> (Work in Progress) Programmatic and Emotional Appeals of Illiberal Parties. <i>Forthcoming Presentation at 2024 APSA Conference. </i> <br>
+Whitefield, S., Kosmidis, S., & <b>Formisano, G.</b> (Work in Progress) Programmatic and Emotional Appeals of Illiberal Parties. <i> Presented at 2024 APSA Conference. </i> <br>
 <br>
-<b>Formisano, G.</b>, ..., Aragon, P., Caniglia, C., Floridi, L., et al. (Work in Progress) Measuring Misinformation on Wikipedia during the 2024 US Presidential Elections.
+<b>Formisano, G.</b>, ..., Aragon, P., Caniglia, C., Floridi, L., et al. (Work in Progress) Measuring Misinformation on Wikipedia during the 2024 US Presidential Elections.<br>
 <br>
 Valentim, V. & <b>Formisano, G.</b> (Work in Progress) Calling out unacceptable rhetoric on social media. <i>Presented at EPSA Conference 2024</i>. <br>
 <br>

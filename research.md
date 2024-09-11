@@ -30,7 +30,6 @@ Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (2024) 
 <br>
 <br>
 <center> <b> Ongoing Research </b> </center> 
-<br> 
 <b>Formisano, G.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Working paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 <br>
 Clemente, A.* & <b>Formisano, G.* </b> (Working Paper) Mind the Bricks: Fairness Beliefs and local housing inequality in the UK. <i>Presented at EPSA Conference 2024</i>. <br>

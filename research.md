@@ -24,7 +24,7 @@ function refreshPage() {
 </script>
 
 <center> <b> Peer-reviewed Research </b> </center> 
-Friedrichs, J.*, Stoehr, N.*, & <b>Formisano, G.* </b> (2022) <a href="https://www.sciencedirect.com/science/article/pii/S2468696422000428" target="_blank" rel="noopener noreferrer"> Fear-anger cycles: Governmental and populist politics of emotion</a>. <i>Online Social Networks and Media</i>. <a href="https://dataverse.harvard.edu/dataverse/fear-anger-contests" target="_blank" rel="noopener noreferrer">[Data]</a><br>
+Friedrichs, J.&ast;, Stoehr, N.&ast;, & <b>Formisano, G.&ast; </b> (2022) <a href="https://www.sciencedirect.com/science/article/pii/S2468696422000428" target="_blank" rel="noopener noreferrer"> Fear-anger cycles: Governmental and populist politics of emotion</a>. <i>Online Social Networks and Media</i>. <a href="https://dataverse.harvard.edu/dataverse/fear-anger-contests" target="_blank" rel="noopener noreferrer">[Data]</a><br>
 <br>
 Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (2024) <a href="https://doi.org/10.1007/s11023-024-09693-x" target="_blank" rel="noopener noreferrer"> Artificial Intelligence for the Internal Democracy of Political Parties</a>. <i>Minds and Machines</i>. <br>
 <br>

@@ -39,7 +39,7 @@ Theocharis, Y., Kosmidis, S., & <b>Formisano, G.</b> (Work in Progress) Wisdom o
 <br>
 Whitefield, S., Kosmidis, S., & <b>Formisano, G.</b> (Work in Progress) Programmatic and Emotional Appeals of Illiberal Parties. <i> Presented at 2024 APSA Conference. </i> <br>
 <br>
-<b>Formisano, G.</b>, ..., Aragon, P., Caniglia, C., Floridi, L., et al. (Work in Progress) Measuring Misinformation on Wikipedia during the 2024 US Presidential Elections.<br>
+<b>Formisano, G.*</b>, Emmie Hine*, Prathm Juneja, Joel Laitila, Claudio Novelli, & Luciano Floridi (Work in Progress) Measuring Misinformation on Wikipedia during the 2024 US Presidential Elections.<br>
 <br>
 Valentim, V. & <b>Formisano, G.</b> (Work in Progress) Calling out unacceptable rhetoric on social media. <i>Presented at EPSA Conference 2024</i>. <br>
 <br>

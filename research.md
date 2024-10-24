@@ -37,8 +37,6 @@ Clemente, A. * & <b>Formisano, G. * </b> (Working Paper) Mind the Bricks: Fairne
 <br>
 <b>Formisano, G.</b>, Froio, C., & Castelli-Gattinara, P. (Working Paper) Protest Event Analysis: A Supervised NLP Approach. <i>Presented at EPSA Conference 2024</i>. <br>
 <br>
-Theocharis, Y., Kosmidis, S., & <b>Formisano, G.</b> (Work in Progress) Wisdom of the Sub-Crowds: Partisan-Based Measurement of Online Polarization. <br>
-<br>
 Whitefield, S., Kosmidis, S., & <b>Formisano, G.</b> (Work in Progress) Programmatic and Emotional Appeals of Illiberal Parties. <i> Presented at 2024 APSA Conference. </i> <br>
 <br>
 Valentim, V. & <b>Formisano, G.</b> (Work in Progress) Calling out unacceptable rhetoric on social media. <i>Presented at EPSA Conference 2024</i>. <br>

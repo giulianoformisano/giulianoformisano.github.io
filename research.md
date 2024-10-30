@@ -29,7 +29,7 @@ Friedrichs, J. *, Stoehr, N. *, & <b>Formisano, G. * </b> (2022) <a href="https:
 Novelli, C., <b>Formisano, G.</b>, Juneja, P., Sandri, G., & Floridi, L. (2024) <a href="https://doi.org/10.1007/s11023-024-09693-x" target="_blank" rel="noopener noreferrer"> Artificial Intelligence for the Internal Democracy of Political Parties</a>. <i>Minds and Machines</i>. <br>
 <br>
 <center> <b> Ongoing Research </b> </center> 
-<b>Formisano, G. *</b>, Emmie Hine *, Prathm Juneja, Joel Laitila, Claudio Novelli, ..., & Luciano Floridi (Working paper) <a href="https://papers.ssrn.com/abstract_id=4990973"> Measuring Misinformation on Wikipedia during the 2024 US Presidential Elections. </a> <br>
+<b>Formisano, G. *</b>, Hine, E. *, Juneja, P., Laitila, J., Novelli, C., ..., & Floridi, L. (Working paper) <a href="https://papers.ssrn.com/abstract_id=4990973"> Measuring Misinformation on Wikipedia during the 2024 US Presidential Elections. </a> <br>
 <br>
 <b>Formisano, G.</b>, Friedrichs, F., Schaffner, F., & Stoehr, N. (Working paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 <br>

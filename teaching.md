@@ -23,12 +23,8 @@ function refreshPage() {
 </script>
 
 <center> <b> University of Zurich </b> </center> 
-
-<b> Undergraduate Course - Course Convenor </b> <br>
-- Digital Disruption - Politics, Government, and Policy (Spring 2025)
+- Digital Disruption - Politics, Government, and Policy (UG level, Spring 2025)
 
 <center> <b> University of Oxford </b> </center> 
-
-<b> Postgraduate courses - Teaching Assistant </b> <br>
-- Core Statistics (Fall 2022)
-- Digital Politics (Spring 2022)
+- Core Statistics (MA level, Fall 2022)
+- Digital Politics (MA level, Spring 2022)

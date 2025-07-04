@@ -3,46 +3,39 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-<!-- Fresh copy request -->
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="expires" content="0">
-
-<!-- This is the container where your teaching list will be automatically loaded -->
+<!-- This container will be filled with your teaching list -->
 <div id="teaching-list">
-  <!-- Loading content... -->
+  <p>Loading teaching schedule...</p>
 </div>
 
 <script>
-// This function fetches the latest content and updates the page
 function loadTeachingContent() {
-  // fetch() retrieves the content from your new file.
-  // The '?' followed by a timestamp is added to prevent the browser from using a cached version.
-  fetch('teaching-content.html?v=' + new Date().getTime())
+  // Use the full GitHub Pages URL to fetch your content file.
+  // The timestamp at the end helps prevent the browser from using an old, cached version.
+  const contentUrl = 'https://giulianoformisano.github.io/teaching-content.html?v=' + new Date().getTime();
+
+  fetch(contentUrl)
     .then(response => {
-      // Check if the request was successful
+      // If the response is not 'ok' (e.g., a 404 "Not Found" error), stop here.
       if (!response.ok) {
-        throw new Error('Network response was not ok');
+        throw new Error('Network response was not ok. Check if the URL is correct.');
       }
       return response.text();
     })
-    .then(data => {
-      // Place the fetched HTML content inside the 'teaching-list' div
-      document.getElementById('teaching-list').innerHTML = data;
+    .then(htmlContent => {
+      // Success! Place the fetched content into the div.
+      document.getElementById('teaching-list').innerHTML = htmlContent;
     })
     .catch(error => {
-      // If there's an error (e.g., file not found), log it to the console
+      // If anything goes wrong, display an error message in the container.
       console.error('Error fetching teaching content:', error);
-      document.getElementById('teaching-list').innerHTML = '<p>Could not load content.</p>';
+      document.getElementById('teaching-list').innerHTML = '<p>Could not load content. Please check the file URL.</p>';
     });
 }
 
-// 1. Load the content as soon as the page is ready
+// 1. Load the content as soon as the page is ready.
 document.addEventListener('DOMContentLoaded', loadTeachingContent);
 
-// 2. Set the content to automatically refresh every 30 seconds (30000 milliseconds)
-// You can change this interval to be longer or shorter.
+// 2. Set the content to automatically refresh every 30 seconds (30000 milliseconds).
 setInterval(loadTeachingContent, 30000);
 </script>

@@ -24,6 +24,7 @@ function refreshPage() {
 
 <b> University of Zurich </b>
 - Digital Disruption - Politics, Government, and Policy (UG level, Spring 2025)
+<br>
 
 <b> University of Oxford </b>
 - Core Statistics, Teaching Assistant (MA level, Fall 2022)

@@ -29,6 +29,6 @@ function refreshPage() {
 
 <center> <b> University of Oxford </b> </center> 
 
-<b> Postgraduate - Teaching Assistant </b> <br>
+<b> Postgraduate courses - Teaching Assistant </b> <br>
 - Core Statistics (Fall 2022)
 - Digital Politics (Spring 2022)

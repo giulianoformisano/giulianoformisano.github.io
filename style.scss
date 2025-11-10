@@ -194,7 +194,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: Roboto;
+  font-family: $helveticaNeue;  // Changed from Roboto
   font-weight: bold;
   font-size: 28px;
   letter-spacing: 1px;
@@ -230,12 +230,15 @@ nav {
     color: $blue;
     text-align: right;
     font-weight: 500; // changed it from 400
-    letter-spacing: -0.4px; // changed it from 1px
+    letter-spacing: -0.2px; // changed it from 1px
     font-size:17px; // changed it from 16.5
 
     @include mobile {
       margin: 0 5px;
       color: $blue;
+    }
+	&:hover, &:active {
+    color: $blue;  // Keeps blue on hover and click
     }
   }
 }

@@ -239,6 +239,7 @@ nav {
     }
 	&:hover, &:active {
     color: $blue;  // Keeps blue on hover and click
+	text-decoration: underline;  // Add underline on hover
     }
   }
 }

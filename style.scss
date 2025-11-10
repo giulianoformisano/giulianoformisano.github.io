@@ -213,8 +213,8 @@ img {
 nav {
   float: center; // original: right
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: Roboto;
-  font-size: 18px;
+  font-family: $helvetica; // changed it from Roboto
+  font-size: 18px; 
   font-weight: bold;
 
   @include mobile {
@@ -229,9 +229,9 @@ nav {
     margin-left: 10px;
     color: $darkGray;
     text-align: right;
-    font-weight: 400;
-    letter-spacing: 1px;
-    font-size:16.5px;
+    font-weight: 500; // changed it from 400
+    letter-spacing: 0.8px; // changed it from 1px
+    font-size:17px; // changed it from 16.5
 
     @include mobile {
       margin: 0 5px;

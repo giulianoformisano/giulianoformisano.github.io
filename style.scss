@@ -230,7 +230,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 500; // changed it from 400
-    letter-spacing: 0.8px; // changed it from 1px
+    letter-spacing: -0.4px; // changed it from 1px
     font-size:17px; // changed it from 16.5
 
     @include mobile {

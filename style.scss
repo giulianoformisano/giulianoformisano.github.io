@@ -19,8 +19,8 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  font: 18px/1.4 Roboto, sans-serif; // Changed from $helvetica
+  color: $darkerGray; // Changed from $darkGray
 }
 
 .container {
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: Roboto;  // Changed from $helveticaNeue
   color: $darkerGray;
   font-weight: bold;
 
@@ -213,7 +213,7 @@ img {
 nav {
   float: center; // original: right
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helvetica; // changed it from Roboto
+  font-family: Roboto;
   font-size: 18px; 
   font-weight: bold;
 

@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+last_modified_at: 2026-08-05
 ---
 <!-- This is the container where your research list will be loaded -->
 <div id="research-list">

@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+last_modified_at: 2026-08-05
 ---
 <!-- This container will be filled with your teaching list -->
 <div id="teaching-list">

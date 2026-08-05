@@ -10,25 +10,24 @@ permalink: /
 
 <script>
 function loadHomepage() {
-  const url = 'https://giulianoformisano.github.io/home-content.html?v=' + Date.now();
+  const url = '{{ "/index-content.html" | relative_url }}?v=' + Date.now();
 
   fetch(url)
     .then(response => {
-      if (!response.ok) throw new Error("Couldn't load homepage");
+      if (!response.ok) {
+        throw new Error("Couldn't load homepage content.");
+      }
       return response.text();
     })
     .then(html => {
       document.getElementById('homepage-content').innerHTML = html;
     })
     .catch(error => {
-      console.error(error);
+      console.error("Error loading homepage:", error);
       document.getElementById('homepage-content').innerHTML =
-        "<p>Could not load homepage.</p>";
+        "<p>Could not load homepage content.</p>";
     });
 }
 
 document.addEventListener('DOMContentLoaded', loadHomepage);
-
-// Optional auto-refresh
-setInterval(loadHomepage, 30000);
 </script>

@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - index-content.html
+  - research-content.html
+  - teaching-content.html

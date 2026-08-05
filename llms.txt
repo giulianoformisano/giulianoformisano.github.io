@@ -1,0 +1,13 @@
+# Giuliano Formisano
+
+Postdoctoral Research Fellow in Political Science at the University of Zurich.
+
+Research areas:
+- Digital politics
+- Political communication
+- Machine learning
+- Online polarization
+
+Pages:
+- Research: https://giulianoformisano.github.io/research/
+- CV: https://giulianoformisano.github.io/files/GFormisano_CV.pdf
